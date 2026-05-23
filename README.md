@@ -62,7 +62,7 @@ I specialize in turning product ideas into reliable, user-friendly applications 
 | [Better Muslim](https://github.com/hassaankhalid225/Better_Muslim) | Islamic companion app with Quran, prayer times, reminders, daily habits, and a minimal user experience. | Flutter, Hive, Provider |
 | [Focus Pulse](https://github.com/hassaankhalid225/Focus-Pulse) | Productivity app for focus sessions, Pomodoro workflows, logs, and progress visualization. | Flutter, SQLite, BLoC |
 | [Fake Product Detection System](https://github.com/hassaankhalid225/Fake-product-detection-system) | Blockchain-backed product authenticity verification app using QR scanning and smart contracts. | Flutter, Solidity, Ethereum Web3 |
-| [Pitch Vision](https://github.com/hassaankhalid225/pitch-vision) | Sports video analysis app for capturing, reviewing, and evaluating athletic performance. | Flutter, Camera API, Video Player |
+| [PDF Tool App](https://github.com/hassaankhalid225/Pdf-Tool-App-) | Flutter-based document utility app for managing PDF workflows with a clean, practical user experience. | Flutter, Dart, PDF Tools |
 
 ---
 
