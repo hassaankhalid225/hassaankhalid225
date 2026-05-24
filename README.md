@@ -108,17 +108,8 @@ I analyzed my GitHub work and the project history shows a broad product range ac
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaankhalid225&theme=tokyonight" alt="Hassaan Khalid GitHub profile summary" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaankhalid225&theme=tokyonight" alt="Repositories by language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaankhalid225&theme=tokyonight" alt="Most committed languages" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassaankhalid225&theme=tokyonight" alt="GitHub contribution stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassaankhalid225&theme=tokyonight&utcOffset=5" alt="Most productive time" height="180" />
 </p>
 
 <p align="center">
