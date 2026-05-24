@@ -107,24 +107,14 @@ I analyzed my GitHub work and the project history shows a broad product range ac
 
 ## GitHub Insights
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassaankhalid225&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Hassaan Khalid GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaankhalid225&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most used languages" height="180" />
+</p>
 
-| Focus Area | Evidence From My Repositories |
-| --- | --- |
-| **Mobile-first engineering** | Strong Flutter/Dart project base across tools, finance, productivity, lifestyle, and business apps |
-| **Full-stack delivery** | Mobile apps connected with FastAPI, Firebase, MongoDB, REST APIs, and real-time workflows |
-| **Product variety** | Built apps for PDFs, contracts, expenses, verification, portfolios, calculators, travel, notes, and management systems |
-| **Production mindset** | 3+ production apps, clean architecture, release-ready structure, and practical UI/UX polish |
-
-</div>
-
-<div align="center">
-
-| 25+ | 3+ | Flutter | Full Stack |
-| --- | --- | --- | --- |
-| Apps Built | Production Apps | Primary Stack | API + Firebase Experience |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaankhalid225&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak" height="180" />
+</p>
 
 ---
 
