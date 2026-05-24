@@ -4,7 +4,7 @@
 
 ### Flutter & Cross-Platform App Developer
 
-I build polished, scalable, and production-ready mobile experiences for Android, iOS, web, and desktop. My work sits at the intersection of clean architecture, performance-focused engineering, and thoughtful UI/UX design.
+I design and build production-ready mobile applications with clean architecture, polished UI/UX, reliable backend integrations, and scalable codebases for Android, iOS, web, and desktop.
 
 <p>
   <a href="mailto:hassaankhalid225@gmail.com">
@@ -15,21 +15,46 @@ I build polished, scalable, and production-ready mobile experiences for Android,
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=hassaankhalid225&style=flat-square&color=0F6CBD&label=Profile+Views" alt="Profile views" />
+<p>
+  <img src="https://img.shields.io/badge/Production%20Apps-3%2B-0F6CBD?style=flat-square" alt="3+ production apps" />
+  <img src="https://img.shields.io/badge/Apps%20Built-25%2B-1F7A4D?style=flat-square" alt="25+ apps built" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Flutter%20%26%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter and Dart" />
+  <img src="https://komarev.com/ghpvc/?username=hassaankhalid225&style=flat-square&color=0F6CBD&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## What I Do
+## Professional Summary
 
-I specialize in turning product ideas into reliable, user-friendly applications with a strong technical foundation and a polished interface.
+I am a cross-platform app developer focused on building practical, fast, and visually refined applications. I have delivered **3+ production apps**, built **25+ app projects**, and worked across a wide range of product types including fintech, productivity, document tools, expense tracking, religious/lifestyle apps, management systems, travel apps, verification systems, portfolios, and business utilities.
 
-- **Cross-platform apps:** Flutter applications for Android, iOS, web, and desktop.
-- **Product-focused UI/UX:** Clear navigation, responsive layouts, accessible visuals, and consistent interaction patterns.
-- **Clean architecture:** Maintainable layers, robust state management, testable business logic, and scalable project structure.
-- **Backend integration:** REST APIs, Firebase, FastAPI, databases, authentication, notifications, and real-time features.
-- **Production readiness:** Performance tuning, crash reporting, offline-first flows, and release-focused workflows.
+My strength is taking an idea from rough requirements to a complete product experience: architecture, UI flows, responsive screens, API integration, local storage, authentication, real-time data, error handling, and release-ready polish.
+
+---
+
+## Repository Snapshot
+
+I analyzed my GitHub work and the project history shows a broad product range across mobile, web, backend, and utility systems.
+
+| Signal | Highlights |
+| --- | --- |
+| Primary focus | Flutter, Dart, cross-platform mobile apps |
+| App volume | 25+ app builds across personal, client-style, and production-grade projects |
+| Production experience | 3+ production apps with real-world workflows and release-focused structure |
+| Backend exposure | FastAPI, Python, Firebase, MongoDB, PostgreSQL, REST APIs, WebSockets |
+| Web exposure | TypeScript, JavaScript, frontend dashboards, portfolio systems, verification tools |
+| Additional domains | Kotlin/native Android, Solidity/Web3, Go backend, document tools, finance apps |
+
+### Product Categories I Have Built
+
+- PDF/document tools, text tools, calculators, and productivity utilities.
+- Expense trackers, banking flows, gold/currency tools, and finance-related apps.
+- Contract management, distribution systems, student/parent management, and business workflows.
+- Religious/lifestyle apps, travel apps, notes apps, focus timers, and personal productivity apps.
+- Product verification, blockchain-backed authenticity systems, transaction verification, and admin-style web tools.
+- Portfolio websites, full-stack web apps, backend APIs, and client-facing product experiences.
 
 ---
 
@@ -43,12 +68,13 @@ I specialize in turning product ideas into reliable, user-friendly applications 
 
 | Area | Tools & Technologies |
 | --- | --- |
-| Mobile Development | Flutter, Dart, Android SDK, Kotlin |
+| Mobile Development | Flutter, Dart, Android SDK, Kotlin, iOS/Android/Web/Desktop builds |
 | Architecture | Clean Architecture, MVVM, Repository Pattern, Feature-first Structure |
 | State Management | BLoC, Riverpod, Provider, GetX |
 | Backend & APIs | FastAPI, Node.js, REST APIs, WebSockets |
 | Databases | Firebase Firestore, Realtime Database, MongoDB, PostgreSQL, SQLite, Hive |
 | Cloud & Services | Firebase Auth, Cloud Messaging, Crashlytics, Storage |
+| UI/UX | Responsive layouts, accessible states, design systems, clean product flows |
 | Workflow | Git, GitHub, GitHub Actions, Postman, VS Code, Android Studio |
 
 ---
@@ -57,22 +83,23 @@ I specialize in turning product ideas into reliable, user-friendly applications 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Contractly](https://github.com/hassaankhalid225/contractly) | Freelance contract management system for drafting, reviewing, tracking, and digitally signing legal contracts. | Flutter, FastAPI, MongoDB, REST APIs |
-| [SplitEase](https://github.com/hassaankhalid225/SplitEase-App) | Expense sharing app for groups, friends, and shared budgets with real-time debt calculation. | Flutter, Firebase Firestore, Provider |
-| [Better Muslim](https://github.com/hassaankhalid225/Better_Muslim) | Islamic companion app with Quran, prayer times, reminders, daily habits, and a minimal user experience. | Flutter, Hive, Provider |
-| [Focus Pulse](https://github.com/hassaankhalid225/Focus-Pulse) | Productivity app for focus sessions, Pomodoro workflows, logs, and progress visualization. | Flutter, SQLite, BLoC |
-| [Fake Product Detection System](https://github.com/hassaankhalid225/Fake-product-detection-system) | Blockchain-backed product authenticity verification app using QR scanning and smart contracts. | Flutter, Solidity, Ethereum Web3 |
-| [PDF Tool App](https://github.com/hassaankhalid225/Pdf-Tool-App-) | Flutter-based document utility app for managing PDF workflows with a clean, practical user experience. | Flutter, Dart, PDF Tools |
+| [Contractly](https://github.com/hassaankhalid225/contractly) | Freelance contract management platform for drafting, reviewing, tracking, and digitally signing legal contracts. | Flutter, FastAPI, MongoDB, REST APIs |
+| [SplitEase](https://github.com/hassaankhalid225/SplitEase-App) | Expense sharing app for groups, friends, and shared budgets with real-time debt calculation and clean settlement flows. | Flutter, Firebase Firestore, Provider |
+| [Better Muslim](https://github.com/hassaankhalid225/Better_Muslim) | Islamic companion app with Quran, prayer times, reminders, daily habits, local storage, and a minimal user experience. | Flutter, Hive, Provider |
+| [Focus Pulse](https://github.com/hassaankhalid225/Focus-Pulse) | Productivity app for Pomodoro sessions, focus logs, custom timer presets, and progress visualization. | Flutter, SQLite, BLoC |
+| [Fake Product Detection System](https://github.com/hassaankhalid225/Fake-product-detection-system) | Product authenticity verification system using QR scanning, smart contract validation, and product lifecycle tracking. | Flutter, Solidity, Ethereum Web3 |
+| [PDF Tool App](https://github.com/hassaankhalid225/Pdf-Tool-App-) | Document utility app for managing PDF workflows with a clean, practical, mobile-first experience. | Flutter, Dart, PDF Tools |
 
 ---
 
-## Engineering Principles
+## How I Build
 
-- Design flows before screens, so the product feels easy to use instead of only looking good.
-- Keep UI consistent with clear hierarchy, accessible contrast, predictable states, and responsive behavior.
-- Prefer simple, testable architecture over clever abstractions.
-- Build features with error states, empty states, loading feedback, and recovery paths.
-- Treat performance, maintainability, and user trust as first-class product requirements.
+- I start with the user flow, then design screens around the real task.
+- I structure apps so features stay maintainable as the product grows.
+- I include loading, empty, error, offline, and recovery states instead of only the happy path.
+- I keep interfaces readable, responsive, accessible, and consistent across screen sizes.
+- I connect frontend and backend carefully with clear models, API handling, and reliable local persistence.
+- I treat performance, release readiness, and long-term maintainability as part of the product, not as final cleanup.
 
 ---
 
@@ -91,7 +118,7 @@ I specialize in turning product ideas into reliable, user-friendly applications 
 
 ## Let's Build
 
-I am open to Flutter app development, backend integration, UI/UX-focused product builds, and long-term collaboration on polished mobile products.
+I am available for Flutter app development, UI/UX-focused product builds, backend integration, Firebase/FastAPI work, and long-term collaboration on production-ready mobile products.
 
 <div align="center">
   <a href="mailto:hassaankhalid225@gmail.com">
