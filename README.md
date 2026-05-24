@@ -108,8 +108,17 @@ I analyzed my GitHub work and the project history shows a broad product range ac
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassaankhalid225&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Hassaan Khalid GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaankhalid225&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most used languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaankhalid225&theme=tokyonight" alt="Hassaan Khalid GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaankhalid225&theme=tokyonight" alt="Repositories by language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaankhalid225&theme=tokyonight" alt="Most committed languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassaankhalid225&theme=tokyonight" alt="GitHub contribution stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassaankhalid225&theme=tokyonight&utcOffset=5" alt="Most productive time" height="180" />
 </p>
 
 <p align="center">
