@@ -94,6 +94,18 @@ I analyzed my GitHub work and the project history shows a broad product range ac
 
 ---
 
+## Published Flutter Packages
+
+Open-source packages I publish on pub.dev for the Flutter community.
+
+| Package | Description | pub.dev |
+| --- | --- | --- |
+| [gemini_flutter_kit](https://pub.dev/packages/gemini_flutter_kit) | Production-ready toolkit for integrating Google Gemini AI into Flutter apps: streaming chat UI, rate limiting, retries, secure key storage, offline queueing, and usage tracking. | [![pub package](https://img.shields.io/pub/v/gemini_flutter_kit.svg?color=0F6CBD)](https://pub.dev/packages/gemini_flutter_kit) [![pub points](https://img.shields.io/pub/points/gemini_flutter_kit?color=1F7A4D)](https://pub.dev/packages/gemini_flutter_kit/score) |
+| [passkey_ui_kit](https://pub.dev/packages/passkey_ui_kit) | Drop-in, themeable UI screens and widgets for passkey (passwordless, biometric) authentication in Flutter. | [![pub package](https://img.shields.io/pub/v/passkey_ui_kit.svg?color=0F6CBD)](https://pub.dev/packages/passkey_ui_kit) [![pub points](https://img.shields.io/pub/points/passkey_ui_kit?color=1F7A4D)](https://pub.dev/packages/passkey_ui_kit/score) |
+| [screen_time_kit](https://pub.dev/packages/screen_time_kit) | One Dart API for screen time, app usage, and app limits across Android and iOS, wrapping UsageStatsManager and FamilyControls behind a type-safe interface. | [![pub package](https://img.shields.io/pub/v/screen_time_kit.svg?color=0F6CBD)](https://pub.dev/packages/screen_time_kit) [![pub points](https://img.shields.io/pub/points/screen_time_kit?color=1F7A4D)](https://pub.dev/packages/screen_time_kit/score) |
+
+---
+
 ## How I Build
 
 - I start with the user flow, then design screens around the real task.
