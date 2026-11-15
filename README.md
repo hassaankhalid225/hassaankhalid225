@@ -71,7 +71,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| **Kuwiki** · *freelance marketplace, Spain* | Real-time job chat, WebRTC video calls, bidding and payment flows | Flutter · FastAPI · WebRTC |
+| **Kwikki** · *freelance marketplace, Spain* | Real-time job chat, WebRTC video calls, bidding and payment flows | Flutter · FastAPI · WebRTC |
 | **Reviz** · *AI EdTech, France* | AI quizzes from photos and documents, voice-recitation grading, Spanish Bank ID login | Flutter · FastAPI · OpenAI |
 | **Distribution ERP** · *live, Spain* | Multi-warehouse tracking and barcode scanning, with Windows and mobile apps from one codebase | Flutter · FastAPI · PostgreSQL |
 | **SSPL** · *live on Play Store* | Doctor association platform with event booking and JazzCash / Easypaisa payments | Flutter · Firebase |
