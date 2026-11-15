@@ -2,140 +2,143 @@
 
 # Hassaan Khalid
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2600&pause=900&color=0F6CBD&center=true&vCenter=true&width=760&lines=Flutter+App+Developer;Cross-Platform+Mobile+Engineer;Production-Ready+App+Builder;UI%2FUX-Focused+Product+Developer;Firebase+%26+FastAPI+Integrator;Clean+Architecture+Practitioner" alt="Rotating professional roles" />
-</p>
+**Senior Mobile Engineer · Flutter & Full-Stack · On-Device AI Researcher**
 
-I design and build production-ready mobile applications with clean architecture, polished UI/UX, reliable backend integrations, and scalable codebases for Android, iOS, web, and desktop.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0F6CBD&center=true&vCenter=true&width=620&lines=Shipping+production+Flutter+apps+for+clients+in+5+countries;Real-time+systems%3A+WebSockets%2C+WebRTC%2C+payments;Benchmarking+on-device+AI%3A+Flutter+vs.+native+Android;Open-source+author+on+pub.dev" alt="Typing summary" />
 
-<p>
-  <a href="mailto:hassaankhalid225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hassaankhalid225%40gmail.com-0F6CBD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hassaan Khalid" />
-  </a>
-  <a href="https://github.com/hassaankhalid225">
-    <img src="https://img.shields.io/badge/GitHub-hassaankhalid225-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
+<a href="https://hassaankhalid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassaankhalid.vercel.app-0F6CBD?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/hassaan-khalid23"><img src="https://img.shields.io/badge/LinkedIn-hassaan--khalid23-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hassaankhalid225@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="#-open-source"><img src="https://img.shields.io/badge/pub.dev-3%20packages-02569B?style=flat-square&logo=dart&logoColor=white" alt="pub.dev packages" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Production%20Apps-3%2B-0F6CBD?style=flat-square" alt="3+ production apps" />
-  <img src="https://img.shields.io/badge/Apps%20Built-25%2B-1F7A4D?style=flat-square" alt="25+ apps built" />
-  <img src="https://img.shields.io/badge/Main%20Stack-Flutter%20%26%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter and Dart" />
-  <img src="https://komarev.com/ghpvc/?username=hassaankhalid225&style=flat-square&color=0F6CBD&label=Profile+Views" alt="Profile views" />
-</p>
+<sub>📍 Sargodha, Pakistan · Remote worldwide</sub>
 
 </div>
 
 ---
 
-## Professional Summary
+### 👋 About
 
-I am a cross-platform app developer focused on building practical, fast, and visually refined applications. I have delivered **3+ production apps**, built **25+ app projects**, and worked across a wide range of product types including fintech, productivity, document tools, expense tracking, religious/lifestyle apps, management systems, travel apps, verification systems, portfolios, and business utilities.
+I build cross-platform products end to end, from Flutter UI and app state to FastAPI services, real-time messaging and payments. Over **4+ years** I have shipped **40+ client and independent projects**, with live deployments for clients in **Spain, France, UAE, Nicaragua and Brazil**.
 
-My strength is taking an idea from rough requirements to a complete product experience: architecture, UI flows, responsive screens, API integration, local storage, authentication, real-time data, error handling, and release-ready polish.
+Alongside client work I run empirical research on **on-device AI performance** and publish open-source Flutter packages.
 
----
-
-## Repository Snapshot
-
-I analyzed my GitHub work and the project history shows a broad product range across mobile, web, backend, and utility systems.
-
-| Signal | Highlights |
-| --- | --- |
-| Primary focus | Flutter, Dart, cross-platform mobile apps |
-| App volume | 25+ app builds across personal, client-style, and production-grade projects |
-| Production experience | 3+ production apps with real-world workflows and release-focused structure |
-| Backend exposure | FastAPI, Python, Firebase, MongoDB, PostgreSQL, REST APIs, WebSockets |
-| Web exposure | TypeScript, JavaScript, frontend dashboards, portfolio systems, verification tools |
-| Additional domains | Kotlin/native Android, Solidity/Web3, Go backend, document tools, finance apps |
-
-### Product Categories I Have Built
-
-- PDF/document tools, text tools, calculators, and productivity utilities.
-- Expense trackers, banking flows, gold/currency tools, and finance-related apps.
-- Contract management, distribution systems, student/parent management, and business workflows.
-- Religious/lifestyle apps, travel apps, notes apps, focus timers, and personal productivity apps.
-- Product verification, blockchain-backed authenticity systems, transaction verification, and admin-style web tools.
-- Portfolio websites, full-stack web apps, backend APIs, and client-facing product experiences.
+<table>
+<tr>
+<td align="center" width="16%"><b>4+</b><br><sub>Years building</sub></td>
+<td align="center" width="16%"><b>40+</b><br><sub>Projects delivered</sub></td>
+<td align="center" width="16%"><b>15+</b><br><sub>Flutter apps deployed</sub></td>
+<td align="center" width="16%"><b>5</b><br><sub>Client countries</sub></td>
+<td align="center" width="16%"><b>3</b><br><sub>pub.dev packages</sub></td>
+<td align="center" width="16%"><b>1</b><br><sub>Research preprint</sub></td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+### 💼 Experience
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,ts,py,fastapi,nodejs,firebase,mongodb,postgres,sqlite,git,github,postman,vscode,androidstudio&theme=dark" alt="Technology stack icons" />
-</div>
-
-### Core Skills
-
-| Area | Tools & Technologies |
-| --- | --- |
-| Mobile Development | Flutter, Dart, Android SDK, Kotlin, iOS/Android/Web/Desktop builds |
-| Architecture | Clean Architecture, MVVM, Repository Pattern, Feature-first Structure |
-| State Management | BLoC, Riverpod, Provider, GetX |
-| Backend & APIs | FastAPI, Node.js, REST APIs, WebSockets |
-| Databases | Firebase Firestore, Realtime Database, MongoDB, PostgreSQL, SQLite, Hive |
-| Cloud & Services | Firebase Auth, Cloud Messaging, Crashlytics, Storage |
-| UI/UX | Responsive layouts, accessible states, design systems, clean product flows |
-| Workflow | Git, GitHub, GitHub Actions, Postman, VS Code, Android Studio |
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Senior Mobile App Developer** · building the Kuwiki marketplace (Spain) with WebSocket chat and WebRTC calls | BhimSoft · Remote | Oct 2025 – Present |
+| **Manager & Mobile App Developer** · 15+ Flutter apps shipped (POS, booking, delivery tracking), leading the team | Switch2itech · On-site | Sep 2025 – Present |
+| **Flutter App Developer** · 40+ Flutter & React Native projects, including AI-powered and live ERP apps | Independent · Remote | 2024 – Present |
+| **Flutter Developer (Contract)** · SSPL medical app and a distribution ERP for a Spain-based client | BhimSoft · Remote | Feb 2023 – Aug 2023 |
 
 ---
 
-## Featured Projects
+### 🔬 Research
+
+**Flutter vs. Native Android for On-Device Inference: An Empirical Benchmark on Entry-Tier Hardware** · *Preprint, 2026*
+<br>A controlled benchmark of 23,180 measurements using SHA-256-pinned LiteRT models across CPU, GPU and NNAPI. GPU kernel latency is statistically equivalent, but pure-Dart image decoding is **4.2–10.5× slower** than native codecs. The study also uncovered a silent plugin dependency drift that changes CPU latency by up to **2×**.
+<br>[![Code & Data](https://img.shields.io/badge/Code%20%26%20Data-ondevice--ai--benchmark-181717?style=flat-square&logo=github)](https://github.com/hassaankhalid225/ondevice-ai-benchmark)
+
+---
+
+### 📦 Open Source
+
+| Package | What it does | |
+| :--- | :--- | :--- |
+| [**gemini_flutter_kit**](https://pub.dev/packages/gemini_flutter_kit) | Gemini AI for Flutter: streaming chat UI, rate limiting, retries, secure key storage, offline queueing | [![pub](https://img.shields.io/pub/v/gemini_flutter_kit?style=flat-square&color=0F6CBD&label=pub)](https://pub.dev/packages/gemini_flutter_kit) |
+| [**passkey_ui_kit**](https://pub.dev/packages/passkey_ui_kit) | Drop-in, themeable screens for passkey and biometric sign-in | [![pub](https://img.shields.io/pub/v/passkey_ui_kit?style=flat-square&color=0F6CBD&label=pub)](https://pub.dev/packages/passkey_ui_kit) |
+| [**screen_time_kit**](https://pub.dev/packages/screen_time_kit) | One type-safe Dart API for screen time and app limits on Android & iOS | [![pub](https://img.shields.io/pub/v/screen_time_kit?style=flat-square&color=0F6CBD&label=pub)](https://pub.dev/packages/screen_time_kit) |
+| [**Linger**](https://github.com/hassaankhalid225/linger-captions) | Keeps every line from Windows 11 Live Captions so you can copy, save and export it | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Ghostline**](https://github.com/hassaankhalid225/ghostline) | Live captions side by side with ChatGPT / Claude, hidden from screen sharing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+### 🚀 Featured Work
+
+| Project | Highlights | Stack |
+| :--- | :--- | :--- |
+| **Kuwiki** · *freelance marketplace, Spain* | Real-time job chat, WebRTC video calls, bidding and payment flows | Flutter · FastAPI · WebRTC |
+| **Reviz** · *AI EdTech, France* | AI quizzes from photos and documents, voice-recitation grading, Spanish Bank ID login | Flutter · FastAPI · OpenAI |
+| **Distribution ERP** · *live, Spain* | Multi-warehouse tracking and barcode scanning, with Windows and mobile apps from one codebase | Flutter · FastAPI · PostgreSQL |
+| **SSPL** · *live on Play Store* | Doctor association platform with event booking and JazzCash / Easypaisa payments | Flutter · Firebase |
+| [**Contractly**](https://github.com/hassaankhalid225/contractly) | AI contract generation with a local fallback and JWT auth, built on a layered FastAPI backend | Flutter · Riverpod · MongoDB |
+| [**SplitEase**](https://github.com/hassaankhalid225/SplitEase-App) | Group bill splitting with flexible shares, PDF summaries and biometric lock | Flutter · Provider |
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| [Contractly](https://github.com/hassaankhalid225/contractly) | Freelance contract management platform for drafting, reviewing, tracking, and digitally signing legal contracts. | Flutter, FastAPI, MongoDB, REST APIs |
-| [SplitEase](https://github.com/hassaankhalid225/SplitEase-App) | Expense sharing app for groups, friends, and shared budgets with real-time debt calculation and clean settlement flows. | Flutter, Firebase Firestore, Provider |
-| [Better Muslim](https://github.com/hassaankhalid225/Better_Muslim) | Islamic companion app with Quran, prayer times, reminders, daily habits, local storage, and a minimal user experience. | Flutter, Hive, Provider |
-| [Focus Pulse](https://github.com/hassaankhalid225/Focus-Pulse) | Productivity app for Pomodoro sessions, focus logs, custom timer presets, and progress visualization. | Flutter, SQLite, BLoC |
-| [Fake Product Detection System](https://github.com/hassaankhalid225/Fake-product-detection-system) | Product authenticity verification system using QR scanning, smart contract validation, and product lifecycle tracking. | Flutter, Solidity, Ethereum Web3 |
-| [PDF Tool App](https://github.com/hassaankhalid225/Pdf-Tool-App-) | Document utility app for managing PDF workflows with a clean, practical, mobile-first experience. | Flutter, Dart, PDF Tools |
+| :--- | :--- | :--- |
+| **DynoOps** | Restaurant platform with table management, kitchen display, inventory and a web admin panel | Flutter · React · Node.js |
+| **Router Rental** | Live ride-profitability calculator for web and mobile | Flutter · React · Firebase |
+| [**HireArc**](https://github.com/hassaankhalid225/HireArc) | Job aggregation board with application tracking | Flutter · FastAPI |
+| [**Focus Pulse**](https://github.com/hassaankhalid225/Focus-Pulse) | Modular focus timer with clean data, domain and presentation layers | Flutter · GoRouter |
+| [**PDF Tool App**](https://github.com/hassaankhalid225/Pdf-Tool-App-) | Privacy-first PDF, Word, Excel and image converter | Flutter · FastAPI |
+| **SafarAI** · *final-year project* | AI road-trip planner for Pakistan with RAG-based stop suggestions and live group tracking | Flutter · RAG |
+
+</details>
 
 ---
 
-## Published Flutter Packages
-
-Open-source packages I publish on pub.dev for the Flutter community.
-
-| Package | Description | pub.dev |
-| --- | --- | --- |
-| [gemini_flutter_kit](https://pub.dev/packages/gemini_flutter_kit) | Production-ready toolkit for integrating Google Gemini AI into Flutter apps: streaming chat UI, rate limiting, retries, secure key storage, offline queueing, and usage tracking. | [![pub package](https://img.shields.io/pub/v/gemini_flutter_kit.svg?color=0F6CBD)](https://pub.dev/packages/gemini_flutter_kit) [![pub points](https://img.shields.io/pub/points/gemini_flutter_kit?color=1F7A4D)](https://pub.dev/packages/gemini_flutter_kit/score) |
-| [passkey_ui_kit](https://pub.dev/packages/passkey_ui_kit) | Drop-in, themeable UI screens and widgets for passkey (passwordless, biometric) authentication in Flutter. | [![pub package](https://img.shields.io/pub/v/passkey_ui_kit.svg?color=0F6CBD)](https://pub.dev/packages/passkey_ui_kit) [![pub points](https://img.shields.io/pub/points/passkey_ui_kit?color=1F7A4D)](https://pub.dev/packages/passkey_ui_kit/score) |
-| [screen_time_kit](https://pub.dev/packages/screen_time_kit) | One Dart API for screen time, app usage, and app limits across Android and iOS, wrapping UsageStatsManager and FamilyControls behind a type-safe interface. | [![pub package](https://img.shields.io/pub/v/screen_time_kit.svg?color=0F6CBD)](https://pub.dev/packages/screen_time_kit) [![pub points](https://img.shields.io/pub/points/screen_time_kit?color=1F7A4D)](https://pub.dev/packages/screen_time_kit/score) |
-
----
-
-## How I Build
-
-- I start with the user flow, then design screens around the real task.
-- I structure apps so features stay maintainable as the product grows.
-- I include loading, empty, error, offline, and recovery states instead of only the happy path.
-- I keep interfaces readable, responsive, accessible, and consistent across screen sizes.
-- I connect frontend and backend carefully with clear models, API handling, and reliable local persistence.
-- I treat performance, release readiness, and long-term maintainability as part of the product, not as final cleanup.
-
----
-
-## GitHub Insights
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaankhalid225&theme=tokyonight" alt="Repositories by language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassaankhalid225&theme=tokyonight" alt="GitHub contribution stats" height="180" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,nextjs,ts,py,fastapi,nodejs,firebase,supabase,mongodb,postgres,githubactions&theme=dark&perline=15" alt="Tech stack" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaankhalid225&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak" height="180" />
-</p>
+<details>
+<summary><b>Full skill set</b></summary>
+<br>
+
+| Area | Skills |
+| :--- | :--- |
+| **Mobile** | Flutter / Dart, React Native, Kotlin, Swift, Capacitor; iOS, Android and desktop releases |
+| **Architecture** | Clean Architecture, MVVM, repository pattern, feature modules; Riverpod, BLoC, Provider, GetX |
+| **Backend & data** | Python / FastAPI, Node.js, REST, JWT; MongoDB, PostgreSQL, Firebase, Supabase, SQLite |
+| **Real-time & payments** | WebSockets, WebRTC; Stripe, JazzCash, Easypaisa, NOWPayments, Spanish Bank ID, Google Maps SDK |
+| **AI** | OpenAI / Claude / Gemini APIs, RAG, LiteRT / TFLite on-device inference, n8n automation |
+| **Research** | Reproducible benchmarking, pandas, NumPy, SciPy, non-parametric statistics, LaTeX |
+
+</details>
 
 ---
 
-## Let's Build
+### 🎓 Education & Leadership
 
-I am available for Flutter app development, UI/UX-focused product builds, backend integration, Firebase/FastAPI work, and long-term collaboration on production-ready mobile products.
+**B.S. Software Engineering** · University of Sargodha · GPA 3.45 / 4.00 · *Expected 2027*
+
+- **President**, Management & Technical Wing, SESS: leads 40+ members and has coordinated 15+ events
+- **Media Director**, NYLP 2026: led a 30-member media team
+- **Event Manager**, IIRIS
+
+---
 
 <div align="center">
-  <a href="mailto:hassaankhalid225@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-hassaankhalid225%40gmail.com-0F6CBD?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" />
-  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassaankhalid225&theme=tokyonight" alt="GitHub stats" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaankhalid225&theme=tokyonight" alt="Top languages" height="160" />
+
+<br><br>
+
+**Open to remote Flutter, full-stack and mobile AI roles.**
+
+<a href="mailto:hassaankhalid225@gmail.com"><img src="https://img.shields.io/badge/Let's%20build%20something-hassaankhalid225%40gmail.com-0F6CBD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=hassaankhalid225&style=flat-square&color=0F6CBD&label=Profile+views" alt="Profile views" />
+
 </div>
