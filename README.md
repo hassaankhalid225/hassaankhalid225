@@ -17,7 +17,7 @@
 
 ---
 
-### 👋 About
+###  About
 
 I build cross-platform products end to end, from Flutter UI and app state to FastAPI services, real-time messaging and payments. Over **4+ years** I have shipped **40+ client and independent projects**, with live deployments for clients in **Spain, France, UAE, Nicaragua and Brazil**.
 
@@ -36,7 +36,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 💼 Experience
+###  Experience
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 🔬 Research
+###  Research
 
 **Flutter vs. Native Android for On-Device Inference: An Empirical Benchmark on Entry-Tier Hardware** · *Preprint, 2026*
 <br>A controlled benchmark of 23,180 measurements using SHA-256-pinned LiteRT models across CPU, GPU and NNAPI. GPU kernel latency is statistically equivalent, but pure-Dart image decoding is **4.2–10.5× slower** than native codecs. The study also uncovered a silent plugin dependency drift that changes CPU latency by up to **2×**.
@@ -55,7 +55,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 📦 Open Source
+###  Open Source
 
 | Package | What it does | |
 | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 🚀 Featured Work
+###  Featured Work
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
@@ -95,7 +95,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,nextjs,ts,py,fastapi,nodejs,firebase,supabase,mongodb,postgres,githubactions&theme=dark&perline=15" alt="Tech stack" />
@@ -118,7 +118,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 ---
 
-### 🎓 Education & Leadership
+###  Education & Leadership
 
 **B.S. Software Engineering** · University of Sargodha · GPA 3.45 / 4.00 · *Expected 2027*
 
