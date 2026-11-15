@@ -11,7 +11,7 @@
 <a href="mailto:hassaankhalid225@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="#-open-source"><img src="https://img.shields.io/badge/pub.dev-3%20packages-02569B?style=flat-square&logo=dart&logoColor=white" alt="pub.dev packages" /></a>
 
-<sub>📍 Sargodha, Pakistan · Remote worldwide</sub>
+<sub> Sargodha, Pakistan · Remote worldwide</sub>
 
 </div>
 
@@ -40,7 +40,7 @@ Alongside client work I run empirical research on **on-device AI performance** a
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
-| **Senior Mobile App Developer** · building the Kuwiki marketplace (Spain) with WebSocket chat and WebRTC calls | BhimSoft · Remote | Oct 2025 – Present |
+| **Senior Mobile App Developer** · building the Kwikkimarketplace (Spain) with WebSocket chat and WebRTC calls | BhimSoft · Remote | Oct 2025 – Present |
 | **Manager & Mobile App Developer** · 15+ Flutter apps shipped (POS, booking, delivery tracking), leading the team | Switch2itech · On-site | Sep 2025 – Present |
 | **Flutter App Developer** · 40+ Flutter & React Native projects, including AI-powered and live ERP apps | Independent · Remote | 2024 – Present |
 | **Flutter Developer (Contract)** · SSPL medical app and a distribution ERP for a Spain-based client | BhimSoft · Remote | Feb 2023 – Aug 2023 |
